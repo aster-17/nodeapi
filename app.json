@@ -1,0 +1,6 @@
+{
+  "name": "Beniwal tour and travels",
+  "description": "API for booking app",
+  "website": "roastedweb.com",
+  "success_url": "/",
+}

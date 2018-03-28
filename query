@@ -1,0 +1,7 @@
+CREATE TABLE user (
+`id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(50)
+)ENGINE=InnoDB;
+
+
+INSERT INTO user ( `id` , `name` ) VALUES( NULL, 'shahrukh ');
